@@ -12,7 +12,7 @@ define discord.application_id = ""
 define discord.main_menu_state = {"state" : "not in mono clicker dx",
                                 "large_image" : "state0",
                                 "details" : "i'm not clickin' it",
-                                "large_text" : "in-game"}
+                                "large_text" : "not in-game"}
 
 # State of the Presence when the game is started.
 define discord.start_state = {"state" : "in mono clicker dx",
