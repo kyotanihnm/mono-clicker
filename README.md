@@ -15,7 +15,7 @@ obviously there is no license, meaning you can just fork it with your OWN code a
 
 yes and no. i wanted to publish this code as it doesn't have any spoiler value to the main story. the original game (Time Will Travel) is an absolute code spaghetti even myself don't want to publish it anyway
 
-## Credits (for the plugins/addons in this repo)
+## credits (for the plugins/addons in this repo)
 + dmochas - [Character Bleep system](https://dmochas-assets.itch.io/dmochas-bleeps-pack)
 
 + Feniks - [Easy Ren'Py GUI](https://feniksdev.itch.io/easy-renpy-gui) < (only took the confirmation script in Fen's GUI template)
