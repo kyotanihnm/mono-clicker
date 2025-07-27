@@ -19,6 +19,10 @@ just download it by pressing the green Code button then Download ZIP. after that
 
 aside from it being a satire clicker game, there is a lot of jokes and memes revolving with that. it's not something serious like any other incremental games
 
+> "where do plugins/addons go?"
+
+`game/plugins`, but some other required files for the plugins/addons might be in the `game` folder.
+
 > "why is it even here? you looking for optimization?"
 
 yes and no. i wanted to publish this code as it doesn't have any spoiler value to the main story. the original game (Time Will Travel) is an absolute code spaghetti even myself don't want to publish it anyway
