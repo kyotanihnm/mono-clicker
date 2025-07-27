@@ -1,6 +1,6 @@
 # Mono Clicker DX
 a public source code for the satire clicker game made in Ren'Py called Mono Clicker DX
 
-some code (and assets) are shared from the main game called [Time Will Travel](https://hananezumi.itch.io/timewilltravel), because it was included there as a prototype. most of the assets that are from the main game will be obselete due to them being unusuable or has no purpose to be here anyways
+some code (and assets) are shared from the main game called [Time Will Travel](https://hananezumi.itch.io/timewilltravel), because it was included there as a prototype. most of the assets that are from the main game will be obselete due to them being unusuable or has no purpose to be here anyways (only this one is open source, Time Will Travel is personal sourced by me)
 
 this public source code is what you consider on how to make a simple (but confusing) clicker game inside Ren'Py, but i don't know why i did it anyway
