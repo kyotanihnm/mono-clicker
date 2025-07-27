@@ -11,7 +11,7 @@ this public source code is what you consider on how to make a simple (but confus
 
 obviously there is no license, meaning you can just fork it with your OWN code and your OWN free will, except the plugins; because those are the ones that I DO NOT own, but are modifiable if you just apply the applicable fields in the plugin code, such as the `discord.application_id` definition in the `rich_presence_settings.rpy` file for example (meaning no commits on the plugin frontends unless i do it)
 
-> "why is it even here? you looking for optimization?
+> "why is it even here? you looking for optimization?"
 
 yes and no. i wanted to publish this code as it doesn't have any spoiler value to the main story. the original game (Time Will Travel) is an absolute code spaghetti even myself don't want to publish it anyway
 
