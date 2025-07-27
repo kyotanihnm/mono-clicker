@@ -13,7 +13,7 @@ obviously there is no license, meaning you can just fork it with your OWN code a
 
 > "how can i download the source code, help me with this problem, kyotani"
 
-just download it by pressing the green Code button then Download ZIP. after that, place the folder where you would store your Ren'Py projects, atleast if you already have the [Ren'Py SDK](https://renpy.org) downloaded first. we do not release the base game here other than itch.io, mind you
+just download it by pressing the green Code button then Download ZIP. after that, extract and place the extracted folder where you would store your Ren'Py projects, atleast if you already have the [Ren'Py SDK](https://renpy.org) downloaded first. we do not release the base game here other than itch.io, mind you
 
 > "why is it a satire clicker?"
 
