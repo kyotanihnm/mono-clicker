@@ -19,6 +19,10 @@ just download it by pressing the green Code button then Download ZIP. after that
 
 aside from it being a satire clicker game, there is a lot of jokes and memes revolving with that. it's not something serious like any other incremental games
 
+> "some files aren't in here than what i've saw in the base game. why is that?"
+
+there are differences here. this is a public source code with ready-to-go assets, and a base game with a lot of sounds and images. obviously, this is more targetted for forkers, not something that i would publish the entirety of it.
+
 > "where do plugins/addons go?"
 
 `game/plugins`, but some other required files for the plugins/addons might be in the `game` folder.
