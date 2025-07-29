@@ -1,3 +1,6 @@
+default persistent.gm = False
+# important define above
+
 # below here are persisted dictionary definitions (for different types of the same word)
 
 default MoCatch_SHIMON = ["lemon", "Lemon", "LEMON"]
