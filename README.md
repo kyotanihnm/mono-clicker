@@ -11,7 +11,7 @@ this public source code is what you consider on how to make a simple (but confus
 ## FAQ
 ### "kyotani, there is no license in this source code. how am i supposed to follow the licensing rules?"
 
-obviously there is no license, meaning you can just fork it with your OWN code and your OWN free will, except the plugins; because those are the ones that I DO NOT own, but are modifiable if you just apply the applicable fields in the plugin code, such as the `discord.application_id` definition in the `rich_presence_settings.rpy` file for example (meaning no commits on the plugin frontends unless i do it)
+obviously there is no license, meaning you can just fork it with your OWN code and your OWN free will, except the plugins; because those are the ones that I DO NOT own, but are modifiable if you just apply the applicable fields in the plugin code, such as the `discord.application_id` definition in the `rich_presence_settings.rpy` file for example (meaning no commits on the plugin frontends unless i do it or the plugin developers updated a new one)
 
 ### "how can i download the source code, help me with this problem, kyotani"
 
